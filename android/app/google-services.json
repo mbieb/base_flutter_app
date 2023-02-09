@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "436231844091",
+    "firebase_url": "https://fir-eatsup.firebaseio.com",
+    "project_id": "firebase-eatsup",
+    "storage_bucket": "firebase-eatsup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436231844091:android:3cafc95a2e95151648c05e",
+        "android_client_info": {
+          "package_name": "com.eatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436231844091-7a74mocujjrjdlkpevejc8qfhc4ui8rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatsup",
+            "certificate_hash": "f3d55e330fbfc6aa6c6fe23920148cd73987b8f5"
+          }
+        },
+        {
+          "client_id": "436231844091-ef8gc0e96nipjftsirbm5r1kb1p7gr31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatsup",
+            "certificate_hash": "60ff8134425c617919d39172756cd3d7f9151ee3"
+          }
+        },
+        {
+          "client_id": "436231844091-hinmbhareooln0fjp99khp6butv39hka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatsup",
+            "certificate_hash": "e3eeb4687b0cd3cb4ff4a6701f3a2996745f795d"
+          }
+        },
+        {
+          "client_id": "436231844091-nufrj7k6i6f94euds4pbi0k4tc2ic09o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatsup",
+            "certificate_hash": "367c8adcb4800c1213f015ee53c69dce03b67ee4"
+          }
+        },
+        {
+          "client_id": "436231844091-dg2uq0uq1v989v8u900dknsvm8pdcka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKofUiGQLEVCMwha6Po3vDtWSSO2NBaXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436231844091-0auqpum9kp97fbkqa7s8cvfce14lvr3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436231844091:android:b9fedb7dab587b02",
+        "android_client_info": {
+          "package_name": "com.quem_studio.eatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436231844091-9c84kkov10qkbg8g26kutbs65s0lrbnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quem_studio.eatsup",
+            "certificate_hash": "e3eeb4687b0cd3cb4ff4a6701f3a2996745f795d"
+          }
+        },
+        {
+          "client_id": "436231844091-d0v9gg73ld880sp9rcpd5nkc22fqt6o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quem_studio.eatsup",
+            "certificate_hash": "367c8adcb4800c1213f015ee53c69dce03b67ee4"
+          }
+        },
+        {
+          "client_id": "436231844091-d59ec63o52kgjkiesfps95n0t27dor0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quem_studio.eatsup",
+            "certificate_hash": "60ff8134425c617919d39172756cd3d7f9151ee3"
+          }
+        },
+        {
+          "client_id": "436231844091-q61dpg8j7st0e2m3387g280sl3fjn2p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quem_studio.eatsup",
+            "certificate_hash": "f3d55e330fbfc6aa6c6fe23920148cd73987b8f5"
+          }
+        },
+        {
+          "client_id": "436231844091-dg2uq0uq1v989v8u900dknsvm8pdcka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKofUiGQLEVCMwha6Po3vDtWSSO2NBaXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436231844091-0auqpum9kp97fbkqa7s8cvfce14lvr3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436231844091:android:16dd37a681d8724f48c05e",
+        "android_client_info": {
+          "package_name": "id.eatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436231844091-0avmskd9vaq12ir4h9c14vb8agl9gokp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.eatsup",
+            "certificate_hash": "f3d55e330fbfc6aa6c6fe23920148cd73987b8f5"
+          }
+        },
+        {
+          "client_id": "436231844091-1l8p8j5ktmqd6gt15ci4gsglmfivvlbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.eatsup",
+            "certificate_hash": "e3eeb4687b0cd3cb4ff4a6701f3a2996745f795d"
+          }
+        },
+        {
+          "client_id": "436231844091-a4iodpijmiirnlclpjcdehhp7fdf8n00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.eatsup",
+            "certificate_hash": "367c8adcb4800c1213f015ee53c69dce03b67ee4"
+          }
+        },
+        {
+          "client_id": "436231844091-t3037jvp2bimiqqcg54vkmtr9ofrq5vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.eatsup",
+            "certificate_hash": "60ff8134425c617919d39172756cd3d7f9151ee3"
+          }
+        },
+        {
+          "client_id": "436231844091-t6k5jshetdrkfggef8ef8neqpi3g7vbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.eatsup",
+            "certificate_hash": "dcd68973136892b8332be0ac9c374a0f39898378"
+          }
+        },
+        {
+          "client_id": "436231844091-dg2uq0uq1v989v8u900dknsvm8pdcka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKofUiGQLEVCMwha6Po3vDtWSSO2NBaXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436231844091-0auqpum9kp97fbkqa7s8cvfce14lvr3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436231844091:android:0f7c58bee9cc910c48c05e",
+        "android_client_info": {
+          "package_name": "id.eatsup.gen2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436231844091-dg2uq0uq1v989v8u900dknsvm8pdcka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKofUiGQLEVCMwha6Po3vDtWSSO2NBaXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436231844091-0auqpum9kp97fbkqa7s8cvfce14lvr3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
